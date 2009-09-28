@@ -1,0 +1,26 @@
+#!/usr/bin/perl
+
+print "Hello World!\n";
+
+# Hmmm...
+# Better than System.out.println that's for sure.
+
+---------------------------------
+
+#!/usr/bin/perl
+
+[backspace][backspace][backspace]
+#!/usr/bin/python
+
+Long display of a python script.
+
+-----------------------------------
+
+#!/usr/bin/perl
+
+use strict;
+
+my $one = eval "eval \"eval \\\" eval \\\\\"1\\\\\" \\\" \\";
+
+print "$one\n";
+

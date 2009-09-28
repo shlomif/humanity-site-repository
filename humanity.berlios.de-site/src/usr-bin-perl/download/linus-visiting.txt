@@ -1,0 +1,50 @@
+[Linus Torvalds Enters. Applause]
+
+Linus: Hello.
+
+Tony: Hi! You are Linus Torvalds, right?
+
+Linus: Yes.
+
+Tony: Nice to meet you. They shake hands.
+
+[Tony gets back to sitting next to the computer]
+
+[Pause]
+
+Linus [waits a little]: Isn't there something you want to ask me 
+or say to me? The patch penguin fiasco? BitKeeper? The Dave Jones Tree?
+
+Tony: Actually, there is one. [Turns to Linus] You're disturbing me.
+
+.
+.
+.
+
+Linus: I met Tony. He was not excited to meet me at all.
+
+Tim: He gets this way. You should have seen the day that Sarah Michelle 
+Gellar came to visit.
+
+Linus: Let me guess - you host a "Buffy" fan site.
+
+Tim: 5th place on Google, and it's of one of our employees.
+
+Linus: Of Which one?
+
+Tim: [shrugs] Of Tony of course. He is addicted to the show.
+
+[Pause]
+
+Linus: Now I'm puzzled.
+
+Michelle: You see: he has this idea fix of not trusting people he does
+not know personally or does not know people who know them personally, etc.
+He has some distrust of media, and writing. You should ask him about what
+happened to him in high school, and you'll understand where it came from.
+
+Linus: What happened to him?
+
+Michelle: I'm not telling you.
+
+
