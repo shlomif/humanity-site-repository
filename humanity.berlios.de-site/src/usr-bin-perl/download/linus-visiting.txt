@@ -12,7 +12,7 @@ Tony: Nice to meet you. They shake hands.
 
 [Pause]
 
-Linus [waits a little]: Isn't there something you want to ask me 
+Linus [waits a little]: Isn't there something you want to ask me
 or say to me? The patch penguin fiasco? BitKeeper? The Dave Jones Tree?
 
 Tony: Actually, there is one. [Turns to Linus] You're disturbing me.
@@ -23,7 +23,7 @@ Tony: Actually, there is one. [Turns to Linus] You're disturbing me.
 
 Linus: I met Tony. He was not excited to meet me at all.
 
-Tim: He gets this way. You should have seen the day that Sarah Michelle 
+Tim: He gets this way. You should have seen the day that Sarah Michelle
 Gellar came to visit.
 
 Linus: Let me guess - you host a "Buffy" fan site.

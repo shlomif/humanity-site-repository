@@ -39,7 +39,7 @@ Tony: Look, I read this article. It's very nice. But he was talking about
 a 100,000 lines + codebase, not about a 20-liner.
 
 Paul: A little calculation. Let's suppose I want to add a flag. A fix
-for it would take 1 minute to write and debug. Rewriting an entire 
+for it would take 1 minute to write and debug. Rewriting an entire
 script from scratch would take half an hour. Which is better? Hmmm...
 Hard Decision.
 
@@ -54,7 +54,7 @@ less time.
 Michelle: Hmmm... I love the smell of a new workstation in the morning.
 
 Now what should I install? [Picks up a few CDs] Gentoo? Takes
-too long to compile everything. [Puts the CD in a different stack] Debian? 
+too long to compile everything. [Puts the CD in a different stack] Debian?
 [puts   Takes too long to upgrade to testing. Slackware? The package
 management from hell. S.u.S.e? No.
 
@@ -67,7 +67,7 @@ Michelle: Mandrake it is.
 
 [Cut. Tony is sitting in the same room, alone. Alan Enters]
 
-Alan: Hi! 
+Alan: Hi!
 
 Tony: Hi! Aren't you the new intern?
 
@@ -95,20 +95,20 @@ him]
 
 Alan: You use joe too?
 
-Tony: Nah, I'm an Emacs man myself. But joe is much better than pico. You 
+Tony: Nah, I'm an Emacs man myself. But joe is much better than pico. You
 should see our semi-annual Emacs vs. VI shootout.
 
 [sits at the computer]
 
 Now here are some URLs. Read Freshmeat a lot, and I mean a lot. Slashdot
 has good content, but stay away from the comments. SweetCode is a must
-read. To learn perl quickly and nicely, check out this perl tutorial or 
-Perl for Perl Newbies [{shameless plug}] of those Haifa Linux Club 
-creatures. And while we're at it don't ever miss the Haifa Linux Club site. 
+read. To learn perl quickly and nicely, check out this perl tutorial or
+Perl for Perl Newbies [{shameless plug}] of those Haifa Linux Club
+creatures. And while we're at it don't ever miss the Haifa Linux Club site.
 
 Alan: Why?
 
-Tony: they give a lecture about Linux every two weeks and every one is 
+Tony: they give a lecture about Linux every two weeks and every one is
 online.
 
 Alan: They sound like sick people to me.
@@ -116,7 +116,7 @@ Alan: They sound like sick people to me.
 Tony: they are. But my best friends are sick.
 
 Alan: Maybe I'm new here, but can't you prepare a page or a small site, with
-all of these URLs already in place? 
+all of these URLs already in place?
 
 Tony: Great idea! Tell you what, I'll work on it now.
 
@@ -147,7 +147,7 @@ read "Back to Basics" by Joel Spolsky?
 Alan: No, net yet. Albeit I read about him on Slashdot.
 
 Michelle: Brilliant article. Do so. You see this is a 1.7 giga-hertz machine,
-and if something runs fine here, it does not mean it would on our 
+and if something runs fine here, it does not mean it would on our
 extremely loaded server. Makes sure your algorithms are not braindead.
 
 Alan: Can I know your name before this discussion goes any further?
@@ -180,7 +180,7 @@ Alan: I'm Alan, the new intern.
 Robert: Oh, now I remember. Alan. I guarantee you that I'll forget
 your name, so please don't mind if I ask you what it is.
 
-Alan: That's OK. I tell my name to people on the time, and I'm not 
+Alan: That's OK. I tell my name to people on the time, and I'm not
 unlike that either. Back in the university more people know me by name
 than I know theirs.
 
@@ -204,7 +204,7 @@ Alan: Why?
 
 Robert: One thing is because tired programmers are sloppy and write bad
 code, and usually can't get anything done anyway. Another thing is
-that both me, being the CTO and the CEO are voluntarist at hearts. 
+that both me, being the CTO and the CEO are voluntarist at hearts.
 
 Alan: And Linux is the living proof.
 
@@ -224,13 +224,13 @@ Michelle: Nobody. I'm guru-less, care-less and free.
 
 Alan: Cool. I wish I could feel that way.
 
-Michelle: You will and When you do, you'll know that You Were 
+Michelle: You will and When you do, you'll know that You Were
 Enlightened trademark.
 
 Alan: OK.
 
 Michelle: One thing I'll always remember is that he did not know that
-grep could search through files. And I knew that by working with the 
+grep could search through files. And I knew that by working with the
 Borland version of grep that I found on Windows.
 
 Alan: Unbelievable. Every half decent manual out there shows you
@@ -239,15 +239,15 @@ Alan: Unbelievable. Every half decent manual out there shows you
 Michelle: Yeah. OK, back to business. Now, you know how commands are
 parsed in bash?
 
-Alan: More or less. I know that asterisk expands to the list of files, 
-and that double quotes wrap stuff where I can still put variables, and 
+Alan: More or less. I know that asterisk expands to the list of files,
+and that double quotes wrap stuff where I can still put variables, and
 single quotes are the same only with dollars and backslashes being that.
 
 Michelle: Good boy. [ Pats his head ] Now, there are some more caveats,
 especially with bash. Back-quotes are your worst nightmare - they execute
-the command and return its output on the command line. Very dangerous. 
+the command and return its output on the command line. Very dangerous.
 But they are treated like a string. $( ... ) is a much nicer version
-that puts them in a sub-shell. Won't work in System V's /bin/sh, but we 
+that puts them in a sub-shell. Won't work in System V's /bin/sh, but we
 don't care about them.
 
 Alan: Why?
@@ -257,11 +257,11 @@ pole. And meters, mind you are over three times longer than feet.
 
 [Cut]
 
-Black Screen: 
+Black Screen:
 
 Message: Later that day.
 
-Tim: people, people gather around. [Everybody gathers around] First of 
+Tim: people, people gather around. [Everybody gathers around] First of
 all, I'd like to welcome our newest employee: Alan Summers. Alan: I wish
 you good luck. Work hard, and have fun hard, preferably but not necessarily
 both at the same time.
@@ -277,14 +277,14 @@ to be useful.
 
 Alan: Sounds nice, but I think I'll wait before I'll take advantage of it.
 
-Tim: Perfectly fine with me. Now it's time for "donating something to a good 
-cause". I talked with my accountant and we have a $1000 this week. So whose 
+Tim: Perfectly fine with me. Now it's time for "donating something to a good
+cause". I talked with my accountant and we have a $1000 this week. So whose
 first?
 
-Tony: I am. We work with CVS. Well, I tried BitKeeper and it kicks ass. Except 
+Tony: I am. We work with CVS. Well, I tried BitKeeper and it kicks ass. Except
 for branching which is nicer on CVS. Problem is: it costs a lot of money, and
 Larry McVoy is rather possessive about it. Now, this guy works on Arch, which
-aims to be a good BitKeeper replacement, it's usable, but isn't quite there 
+aims to be a good BitKeeper replacement, it's usable, but isn't quite there
 yet. And now he asks for donation. I think we should give it to him.
 
 Tim: Sounds nice. Does anybody agree?
@@ -301,7 +301,7 @@ write a piece of code, it looks like junk to you. That's why people insist
 on their employees to have experience.
 
 But that's not the entire secret: some people are much better programmers
-after a year, than most programmers out there with ten years of experience. 
+after a year, than most programmers out there with ten years of experience.
 But that's because they are eager to learn new languages and new technologies
 and know that learning is a dynamic process.
 
@@ -313,7 +313,7 @@ programmer.
 Alan: so go on.
 
 Robert: Why thanks! See, good code requires a good design. Without good design,
-you'll end up refactoring it too much. But don't over-engineer. You see, 
+you'll end up refactoring it too much. But don't over-engineer. You see,
 you need to have a good design, that can easily be extended.
 
 Alan: How do I do that?
@@ -349,7 +349,7 @@ Tony: Nice to meet you. They shake hands.
 
 [Pause]
 
-Linus [waits a little]: Isn't there something you want to ask me 
+Linus [waits a little]: Isn't there something you want to ask me
 or say to me? The patch penguin fiasco? BitKeeper? The Dave Jones Tree?
 
 Tony: Actually, there is one. [Turns to Linus] You're disturbing me.
@@ -360,7 +360,7 @@ Tony: Actually, there is one. [Turns to Linus] You're disturbing me.
 
 Linus: I met Tony. He was not excited to meet me at all.
 
-Tim: He gets this way. You should have seen the day that Sarah Michelle 
+Tim: He gets this way. You should have seen the day that Sarah Michelle
 Gellar came to visit.
 
 Linus: Let me guess - you host a "Buffy" fan site.
