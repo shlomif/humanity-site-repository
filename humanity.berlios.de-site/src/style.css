@@ -1,0 +1,18 @@
+.stop
+{
+    font-size: large;
+    border: solid medium #880000;
+    padding: 0.5em;
+    background-color: #FFD2D2;
+}
+.stop img.sign
+{
+    float: left;
+    margin: 1em;
+}
+.stop h2
+{
+    overflow: hidden;
+    background-color: transparent;
+}
+
